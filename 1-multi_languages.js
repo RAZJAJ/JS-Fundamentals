@@ -1,7 +1,3 @@
-let firstLine = "C is fun";
-let secondLine = "Python is cool";
-let thirdLine = "Javascript is amazing";
-
-console.log(firstLine);
-console.log(secondLine);
-console.log(thirdLine);
+console.log("C is fun");
+console.log("Python is cool");
+console.log("JavaScript is amazing");
